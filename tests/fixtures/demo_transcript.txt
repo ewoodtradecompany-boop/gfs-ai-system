@@ -1,0 +1,42 @@
+Meeting: EPM Supply Discussion — Lagos Petroleum Ltd
+Date: 2026-07-04
+Participants: Farouk Rahmouni (GFS, Director Sales), Chukwuemeka Obi (Lagos Petroleum, Procurement Manager)
+
+---
+
+Farouk: Good afternoon, Mr. Obi. Thank you for making time today.
+
+Chukwuemeka: Of course, Farouk. We've been reviewing your technical documentation. I have to say, the AVL test results are quite compelling — 4.2% fuel savings per engine hour and 18% NOx reduction. Our environmental compliance team was impressed.
+
+Farouk: That's great to hear. Those results were from a controlled test on heavy fuel oil, which I understand is very similar to what you're running in your generator fleet.
+
+Chukwuemeka: Exactly. We operate 50 Caterpillar 3516 generators across our three processing sites — Port Harcourt, Warri, and Lagos. Fuel costs alone are eating about 30% of our operational budget. If EPM delivers even half of what the AVL data shows, the economics are very strong.
+
+Farouk: Based on your fleet size and fuel consumption figures you shared earlier, our calculation shows a net saving of approximately $180,000 per year at current diesel prices. That's after the cost of EPM.
+
+Chukwuemeka: That's a significant number. But we can't commit to a full supply contract based on a brochure and a third-party test. We'd need to run our own pilot first.
+
+Farouk: Absolutely, that's the right approach. We propose a pilot on 5 generators at your Port Harcourt site over 90 days. We'll provide 200 litres of EPM at no cost for the pilot period. You measure your fuel consumption and emissions, we provide the dosing protocol and technical support throughout.
+
+Chukwuemeka: The no-cost pilot is interesting. What's the commitment after the pilot?
+
+Farouk: None. If the results don't meet the agreed performance targets — which we'll define in the pilot agreement — you walk away. No obligation.
+
+Chukwuemeka: That's fair. We'll need to get our engineering team to sign off on the dosing process. Can you provide a technical brief they can review? Something with the chemistry, compatibility with our fuel system, and the installation procedure.
+
+Farouk: Yes, I'll prepare a technical brief specific to your Caterpillar 3516 configuration. I'll also include the compatibility data for your fuel type.
+
+Chukwuemeka: Good. And we'll need a formal pilot agreement — our legal team needs to review it before we can proceed.
+
+Farouk: Of course. I'll send the pilot agreement and technical brief by Thursday of this week. Once your legal team reviews and signs, we can ship the first batch within two weeks.
+
+Chukwuemeka: Two weeks is workable. I also want to loop in our HSE manager — she'll have questions about storage and handling safety.
+
+Farouk: Happy to arrange a call with her directly. I can also send the SDS — Safety Data Sheet — along with the technical brief.
+
+Chukwuemeka: That would be helpful. Alright, Farouk — I think we have a clear path forward. Let's do this.
+
+Farouk: Excellent. I'll send everything by Thursday. Looking forward to working with Lagos Petroleum.
+
+---
+[End of transcript]
