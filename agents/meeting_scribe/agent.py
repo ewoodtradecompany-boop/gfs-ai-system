@@ -200,7 +200,7 @@ def main():
 
     print("\n--- Result ---")
     print(json.dumps(output.model_dump(), indent=2, ensure_ascii=False))
-    print(f"\n✓ Saved to meetings table (id={meeting_id})")
+    print(f"\nSaved to meetings table (id={meeting_id})")
 
 
 if __name__ == "__main__":
